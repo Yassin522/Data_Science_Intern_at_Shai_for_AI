@@ -1,0 +1,20 @@
+Task 6 Extra Resources
+#####################
+
+linear regression 
+https://youtu.be/8jazNUpO3lQ
+
+-Decision Trees
+https://www.youtube.com/watch?v=7VeUPuFGJHk
+
+-Regression Trees
+https://www.youtube.com/watch?v=g9c66TUylZ4
+
+- Random Forest
+https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
+
+-confidence-intervals
+https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/introduction-confidence-intervals/v/confidence-intervals-and-margin-of-error
+
+- What Is Overfitting in Machine Learning
+https://youtu.be/Anq4PgdASsc
